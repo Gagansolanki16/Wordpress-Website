@@ -2,7 +2,7 @@
 
 https://drive.google.com/file/d/1DOvp22xiDfcXStZzXF898IS9aW3j9TXl/view?usp=drive_link sql database.
 
-A cafe website made in Wordpress.
+A cafe website made in Wordpress. Each detail is given in pdf. 
 
 Technologies Used:
 
