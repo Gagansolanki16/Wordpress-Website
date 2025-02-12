@@ -7,4 +7,5 @@ A cafe website made in Wordpress. Each detail is given in pdf.
 Technologies Used:
 
 WordPress: To build a dynamic, flexible, and easy-to-manage website.
+
 SQL Database: To store and manage menu items, orders, and customer data efficiently.
